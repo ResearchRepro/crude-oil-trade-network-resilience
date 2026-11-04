@@ -1,0 +1,58 @@
+{
+  "n_files": 96,
+  "raw_entries": 1343,
+  "matched_directional_pairs": 1268,
+  "exact_value_match": 261,
+  "within_1pct": 372,
+  "raw_no_edge_count": 75,
+  "example_values": [
+    [
+      "New Zealand",
+      "Indonesia",
+      8635763.0,
+      9264796.0
+    ],
+    [
+      "New Zealand",
+      "Singapore",
+      107290037.0,
+      46165333.0
+    ],
+    [
+      "New Zealand",
+      "Thailand",
+      12824061.0,
+      12543999.0
+    ],
+    [
+      "New Zealand",
+      "Australia",
+      353023641.0,
+      368385635.0
+    ],
+    [
+      "New Zealand",
+      "Fiji",
+      2530.0,
+      2285.0
+    ],
+    [
+      "New Zealand",
+      "Cook Islands",
+      1836.0,
+      1836.0
+    ],
+    [
+      "New Zealand",
+      "French Polynesia",
+      2514.0,
+      2252.0
+    ],
+    [
+      "Papua New Guinea",
+      "South Korea",
+      101311270.0,
+      90427929.0
+    ]
+  ]
+}

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript and the archival release of this repository once published."
+title: "Structural robustness and reconfiguration of global crude oil trade in 2017, 2019, and 2020: analysis materials"
+type: dataset
+authors:
+  - family-names: "Maghsoudi"
+    given-names: "Mehrdad"
+  - family-names: "Agha Mohammad ali Kermani"
+    given-names: "Mehrdad"
+  - family-names: "Pourhossein Parizad"
+    given-names: "Armin"
+  - family-names: "Shayesteh"
+    given-names: "Hossein"
+repository-code: "https://github.com/ResearchRepro/crude-oil-trade-network-resilience"
+license: "other"

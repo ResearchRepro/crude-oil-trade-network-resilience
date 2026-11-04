@@ -1,0 +1,13 @@
+{
+  "seed_layout": 46,
+  "seed_communities": 46,
+  "community_test_seeds": "1000\u20131019",
+  "removal_random_replicates": 70,
+  "null_rewires": 25,
+  "observations": [
+    2017,
+    2019,
+    2020
+  ],
+  "weight_units": "USD"
+}
